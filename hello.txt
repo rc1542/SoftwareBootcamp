@@ -1,3 +1,7 @@
 Hello world
 
+<<<<<<< HEAD
 How are you today?
+=======
+This is an edit from the web.
+>>>>>>> 66ab395ff688ab0fc2ae614f09d2019872ad10cd
